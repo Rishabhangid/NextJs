@@ -1,0 +1,19 @@
+# FOlder Routing
+> page.js
+
+# Group Routing
+> add ()
+
+# Dynamic ROute []
+will accept one params value
+
+# Dynamic ROute for multiple parmas [...]
+> can accept multipple params like app/33444/ddccdd/443443
+
+# Parallel Routes/ Conditional Routes
+> by using @ and making a separate layout,js file in the folder where you want to add this
+
+# Link Tag
+# useROuter
+# GLobal CSS    
+# Image tag will optamize the image for fast load.
